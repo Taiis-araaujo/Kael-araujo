@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhkdzA4ODN5Y2wwOWhhbzU3bGZ0NjF6ZWx4Ym83OXd0ZG05ZnhzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SxLe9d2V0RwGMbeyIT/giphy.gif" width="80%" alt="Banner" />
-  <br/><br/>
+<br/>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=E0679A&center=true&vCenter=true&width=520&lines=Tais+Ara%C3%BAjo+Rufino+Sampaio" alt="Tais Araújo Rufino Sampaio" />
 </div>
 
